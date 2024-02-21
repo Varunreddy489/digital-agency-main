@@ -135,6 +135,8 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <p>Varun Reddy</p>
+        <P>Pavan Kalyan</P>
       </section>
     </div>
   );
